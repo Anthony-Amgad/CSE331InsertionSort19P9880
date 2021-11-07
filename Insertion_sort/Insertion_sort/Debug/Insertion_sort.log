@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\UNI\Semester 5\Data Structure\Lab C++\Insertionsort\Insertion_sort\Insertion_sort\Source.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Insertion_sort.vcxproj -> D:\UNI\Semester 5\Data Structure\Lab C++\Insertionsort\Insertion_sort\Debug\Insertion_sort.exe
